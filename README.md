@@ -2,7 +2,7 @@
 The easy to use the automatic publisher for any photos with one textfile. written by unclassified method in PHP
 For using this cms you need:
 
-a: To upload this archive into a it's root directory on your server
+a: To upload this archive into it's root directory on your server
 
 b: create the subdirectory of the product list(cathegory) according expample. 
 
