@@ -4,9 +4,9 @@ For using this cms you need:
 
 a: To upload this archive into a it's root directory on your server
 
-b: create the FTP account to the directory ./data/ relative your root directory
+b: create the subdirectory of the product list(cathegory) according expample. 
 
-c: upload the product's directory with name included the 4 "@"-signs for divite the directory-name into the separate 3 rows in the header of the element (see the examples): 
+c: upload into the cathegory's folder the product's directories with name included the 4 "@"-signs for divite the directory-name into the separate 3 rows in the header of the element (see the examples): 
 
 c.1 the unlimited photos of the element in formats jpg, png or gif
 
