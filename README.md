@@ -12,4 +12,4 @@ c.1 the unlimited photos of the element in formats jpg, png or gif
 
 c.2 the one single file with "||" separator for left and right columns in the website 
 
-The upgrade the gallery is only upload/delete the product's folder into/from the current cathegory folder. There can exists many cathegory folders. The server will select only one as a current according filter options
+The upgrade the gallery is only upload/delete the product's folder into/from the current cathegory folder. There can exists many cathegory folders. The server select only one of them as a current cathegory to show as a webpage according filter options. At this version the filter options is hard written as an ASCII code of the first sign in the directory name.
